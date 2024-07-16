@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.hero-section h2,
+.services-section h2,
+.why-choose-us h2,
+.our-project h2,
+.company-growth h2,
+.clients-feedback h2 {
+    font-size: 24px;
+}
+
+.hero-section h1,
+.services-section h1,
+.why-choose-us h1,
+.our-project h1,
+.company-growth h1,
+.clients-feedback h1 {
+    font-size: 36px;
+    margin: 10px 0;
+}
+
+.hero-section p,
+.services-section p,
+.why-choose-us p,
+.our-project p,
+.clients-feedback p {
+    font-size: 16px;
+    color: #333;
+    line-height: 1.5;
+}
+
+.hero-section button,
+.service-highlight button {
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.hero-section button:hover,
+.service-highlight button:hover {
+    background-color: darkred;
+}
+
+.services-section img,
+.our-project img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.service-highlight {
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
